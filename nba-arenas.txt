@@ -1,31 +1,31 @@
-TEAM,ARENA,CAPACITY,OPENED,LAT,LON
-Atlanta Hawks,State Farm Arena,18118,1999,33.76,-84.40
-Boston Celtics,TD Garden,18624,1995,42.37,-71.06
-Brooklyn Nets,Barclays Center,17732,2012,40.68,-73.98
-Charlotte Hornets,Spectrum Center,19077,2005,35.23,-80.84
-Chicago Bulls,United Center,20917,1994,41.88,-87.67
-Cleveland Cavaliers,Quicken Loans Arena,19432,1994,41.50,-81.69
-Dallas Mavericks,American Airlines Center,19200,2001,32.79,-96.81
-Denver Nuggets,Pepsi Center,19520,1999,39.75,-105.00
-Detroit Pistons,Little Caesars Arena,20491,2017,42.34,-83.06
-Golden State Warriors,Oracle Arena,19596,1966,37.75,-122.20
-Houston Rockets,Toyota Center,18500,2003,29.75,-95.36
-Indiana Pacers,Bankers Life Fieldhouse,17923,1999,39.76,-86.16
-Los Angeles Clippers,Staples Center,19060,1999,34.04,-118.27
-Los Angeles Lakers,Staples Center,18997,1999,34.04,-118.27
-Memphis Grizzlies,FedExForum,18119,2004,35.13,-90.05
-Miami Heat,American Airlines Arena,19600,1999,25.78,-80.19
-Milwaukee Bucks,Fiserv Forum,17500,2018,43.05,-87.92
-Minnesota Timberwolves,Target Center,18798,1990,44.98,-93.28
-New Orleans Pelics,Smoothie King Center,16867,1999,29.95,-90.08
-New York Knicks,Madison Square Garden,19812,1968,40.75,-73.99
-Oklahoma City Thunder,Chesapeake Energy Arena,18203,2002,35.46,-97.52
-Orlando Magic,Amway Center,18846,2010,28.54,-81.38
-Philadelphia 76ers,Wells Fargo Center,20478,1996,39.90,-75.17
-Phoenix Suns,Talking Stick Resort Arena,18422,1992,33.45,-112.07
-Portal Trail Blazers,Moda Center,19393,1995,45.53,-122.67
-Sacramento Kings,Golden 1 Center,17608,2016,38.58,-121.50
-San Antonio Spurs,AT&T Center,18418,2002,29.43,-98.44
-Toronto Raptors,Scotiabank Arena,19800,1999,43.64,-79.38
-Utah Jazz,Vivint Smart Home Arena,18300,1991,40.77,-111.90
-Washington Wizards,Capital One Arena,20356,1997,38.89,-77.02
+TEAM,ARENA,CAPACITY,OPENED,DIVISION,LAT,LON
+Atlanta Hawks,State Farm Arena,18118,1999,Southeast,33.76,-84.40
+Boston Celtics,TD Garden,18624,1995,Atlantic,42.37,-71.06
+Brooklyn Nets,Barclays Center,17732,2012,Atlantic,40.68,-73.90
+Charlotte Hornets,Spectrum Center,19077,2005,Southeast,35.23,-80.84
+Chicago Bulls,United Center,20917,1994,Central,41.88,-87.67
+Cleveland Cavaliers,Quicken Loans Arena,19432,1994,Central,41.50,-81.69
+Dallas Mavericks,American Airlines Center,19200,2001,Southwest,32.79,-96.81
+Denver Nuggets,Pepsi Center,19520,1999,Northwest,39.75,-105.00
+Detroit Pistons,Little Caesars Arena,20491,2017,Central,42.34,-83.06
+Golden State Warriors,Oracle Arena,19596,1966,Pacific,37.75,-122.20
+Houston Rockets,Toyota Center,18500,2003,Southwest,29.75,-95.36
+Indiana Pacers,Bankers Life Fieldhouse,17923,1999,Central,39.76,-86.16
+Los Angeles Clippers,Staples Center,19060,1999,Pacific,34.04,-118.20
+Los Angeles Lakers,Staples Center,18997,1999,Pacific,34.04,-118.27
+Memphis Grizzlies,FedExForum,18119,2004,Southwest,35.13,-90.05
+Miami Heat,American Airlines Arena,19600,1999,Southeast,25.78,-80.19
+Milwaukee Bucks,Fiserv Forum,17500,2018,Central,43.05,-87.92
+Minnesota Timberwolves,Target Center,18798,1990,Northwest,44.98,-93.28
+New Orleans Pelics,Smoothie King Center,16867,1999,Southwest,29.95,-90.08
+New York Knicks,Madison Square Garden,19812,1968,Atlantic,40.75,-73.99
+Oklahoma City Thunder,Chesapeake Energy Arena,18203,2002,Northwest,35.46,-97.52
+Orlando Magic,Amway Center,18846,2010,Southeast,28.54,-81.38
+Philadelphia 76ers,Wells Fargo Center,20478,1996,Atlantic,39.90,-75.17
+Phoenix Suns,Talking Stick Resort Arena,18422,1992,Pacific,33.45,-112.07
+Portland Trail Blazers,Moda Center,19393,1995,Northwest,45.53,-122.67
+Sacramento Kings,Golden 1 Center,17608,2016,Pacific,38.58,-121.50
+San Antonio Spurs,AT&T Center,18418,2002,Southwest,29.43,-98.44
+Toronto Raptors,Scotiabank Arena,19800,1999,Atlantic,43.64,-79.38
+Utah Jazz,Vivint Smart Home Arena,18300,1991,Northwest,40.77,-111.90
+Washington Wizards,Capital One Arena,20356,1997,Southeast,38.89,-77.02
