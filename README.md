@@ -3,7 +3,7 @@
 Webmap of NBA Arenas built with Python and Folium
 <br>
 
-## Webmap Features
+### Features
 
 -    Base layer of world map
 -    Feature Group layer for markers at the location of NBA arenas
