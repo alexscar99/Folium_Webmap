@@ -1,5 +1,5 @@
 # NBA Arenas Webmap
-<br>
+
 Webmap of NBA Arenas built with Python and Folium
 <br>
 
