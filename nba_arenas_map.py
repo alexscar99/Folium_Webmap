@@ -35,10 +35,10 @@ def color_producer(division):
 # Iframe for when marker is selected
 iframe_html = """
 <div style="text-align: center">
-<h3 style="color: #4D9078">%s</h3>
-<h4 style="color: #f78154">%s</h4>
-<h5 style="color: #666">Max Capacity of %s</h5>
-<h5 style="color: #666">Opened in %s</h5>
+<h3 style="color: #20a39e">%s</h3>
+<h4 style="color: #0e0ea3">%s</h4>
+<h5 style="color: #777">Max Capacity: %s</h5>
+<h5 style="color: #777">Opened: %s</h5>
 </div>
 """
 
@@ -98,7 +98,7 @@ fg_arenas = folium.FeatureGroup(name="NBA Arenas")
 # all info regarding that arena. Add the iframe as a child of the feature group.
 for lat, lon, team, arena, year, capacity, division in zip(*arena_info):
     iframe = folium.IFrame(
-        html=iframe_html % (arena, team, str(year), str(capacity)),
+        html=iframe_html % (team, arena, str(year), str(capacity)),
         width=235,
         height=145)
     fg_arenas.add_child(
